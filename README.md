@@ -1,0 +1,2 @@
+# MojosJ
+Django mysql
